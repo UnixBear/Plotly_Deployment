@@ -1,0 +1,21 @@
+.jumbotron h1 {
+    color:rgb(249, 49, 84);
+}
+
+.jumbotron p {
+    color:rgb(249, 49, 84);
+}
+
+.white-text h2 {
+    color: #ddbf93;
+    text-decoration: underline;
+}
+
+.white-text p {
+    color: #ddbf93;
+}
+
+body {
+    background-color: rgba(180, 180, 210, 1);
+}
+
